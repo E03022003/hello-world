@@ -13,3 +13,5 @@ El css el selector universal (que se encontrará en las primeras líneas del arc
 1em = 16px 
 La medida em equivale por defecto a 16px, pero podemos cambiar este valor añadiendo al selector universal otra medida como sería 10px que lo haría más pequeño
 
+"class" es "."
+"id" es "#"

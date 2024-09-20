@@ -14,10 +14,10 @@ h1 {
     background-color: antiquewhite;
 }
 
-.subtitle {
-    background-color: rgb(134, 134, 163);
+p {
+    color: brown;
 }
 
-#body-text {
-    background-color: aquamarine;
+.body-text{
+    color: blue;
 }
