@@ -1,0 +1,23 @@
+/* selector universal selecciona TODOS los elementos del html */
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+h1 {
+    margin: 4em;
+    padding: 2em;
+    font-size: 2.6em;
+    text-align: center;
+    color: rgb(126, 158, 93);
+    background-color: antiquewhite;
+}
+
+.subtitle {
+    background-color: rgb(134, 134, 163);
+}
+
+#body-text {
+    background-color: aquamarine;
+}
